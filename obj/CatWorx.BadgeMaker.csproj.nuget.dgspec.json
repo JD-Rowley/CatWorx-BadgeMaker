@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\theca\\OneDrive\\Desktop\\projects\\c#\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj": {}
+    "C:\\Users\\jdrow\\Desktop\\projects\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\theca\\OneDrive\\Desktop\\projects\\c#\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj": {
+    "C:\\Users\\jdrow\\Desktop\\projects\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\theca\\OneDrive\\Desktop\\projects\\c#\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj",
+        "projectUniqueName": "C:\\Users\\jdrow\\Desktop\\projects\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj",
         "projectName": "CatWorx.BadgeMaker",
-        "projectPath": "C:\\Users\\theca\\OneDrive\\Desktop\\projects\\c#\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj",
-        "packagesPath": "C:\\Users\\theca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\theca\\OneDrive\\Desktop\\projects\\c#\\CatWorx.BadgeMaker\\obj\\",
+        "projectPath": "C:\\Users\\jdrow\\Desktop\\projects\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj",
+        "packagesPath": "C:\\Users\\jdrow\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jdrow\\Desktop\\projects\\CatWorx.BadgeMaker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\theca\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\jdrow\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
